@@ -1,0 +1,61 @@
+[
+    {
+    "rank" : "",
+    "username": "@John",
+    "share": "" ,
+    "point": "20" 
+    },
+    {
+    "rank" : "",
+    "username": "@Sansa",
+    "share":   ""  ,
+    "point": "19"
+    },
+    {
+    "rank" : "",
+    "username": "@Cersi",
+    "share": "" ,
+    "point": "18"
+    },
+    {
+    "rank" : "",
+    "username": "Ned",
+    "share":   ""  ,
+    "point":"17"
+    },
+    {
+    "rank" : "",
+    "username": "Robert",
+    "share":   ""  ,
+    "point":"16"
+    },
+    {"rank" : "",
+    "username": "Brandon",
+    "share":   ""  ,
+    "point":"15"
+    },
+    {
+    "rank" : "",
+    "username": "Arya",
+    "share":   ""  ,
+    "point":"14"
+    },
+    {
+    "rank" : "",
+    "username": "Stanis",
+    "share":   ""  ,
+    "point":"13"
+    },
+    {
+    "rank" : "",
+    "username": "Jaime",
+    "share":   ""  ,
+    "point":"12"
+    },
+    {
+     "rank" : "",
+    "username": "Tyrion",
+    "share":   ""  ,
+    "point":  "11"
+    }
+]
